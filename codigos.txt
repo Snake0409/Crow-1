@@ -1,0 +1,11 @@
+﻿proyecto_crow
+## Activar el venv en PowerShell
+.\venv_crow\Scripts\Activate.ps1
+## Activar el api para tener datos reales
+uvicorn core.api_server:app --reload
+
+crow_frontend
+## npm run dev
+
+crow_app
+## nmp start

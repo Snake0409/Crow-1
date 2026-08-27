@@ -1,0 +1,19 @@
+{
+  "nombre_asistente": "Crow",
+  "mostrar_logo": true,
+  "modo_seguro_activado": true,
+  "permisos": {
+    "apagar": ["The Crow"],
+    "reiniciar": ["The Crow"],
+    "bloquear_pantalla": ["The Crow", "admin"],
+    "modo_juego": ["user", "admin", "The Crow"],
+    "usar_gpt": ["user", "admin", "The Crow"],
+    "buscar_google": ["user", "admin", "The Crow"],
+    "leer_archivo": ["user", "admin", "The Crow"],
+    "crear_archivo": ["admin", "The Crow"],
+    "eliminar_archivo": ["admin", "The Crow"],
+    "cambiar_contraseña_otros": ["admin", "The Crow"],
+    "cambiar_roles": ["The Crow"],
+    "eliminar_usuarios": ["The Crow"]
+  }
+}

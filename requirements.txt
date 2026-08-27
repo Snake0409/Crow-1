@@ -1,0 +1,13 @@
+bcrypt
+colorama
+requests
+python-dotenv
+paramiko
+psutil
+scapy
+pyautogui
+openai
+PyPDF2
+pikepdf
+pynput
+pyttsx3
